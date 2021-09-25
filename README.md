@@ -1,2 +1,4 @@
 # Analyze-A-B-Test-Results
-the challenge was that the hiring company wanted to launch a new web page , but did not know if it is worth or not , so I was provided by the data to preform A/B testing and Linear regression model to make a data driven decision .
+this notebook goes through the process of making a data driven decision where I used some company's dataset to make the decision (whether to change the company's landing web page interface or not) 
+
+all the details needed is inside the notebook.
